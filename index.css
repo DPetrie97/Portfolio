@@ -111,6 +111,11 @@ Skills Section
     color: lawngreen;
 }
 
+.fa-react{
+    font-size: 5em;
+    color: lightskyblue;
+}
+
 .fa-github-alt{
     font-size: 5em;
     color: black;
@@ -118,11 +123,9 @@ Skills Section
 
 .skillsArea{
     display: flex;
-    justify-content: space-evenly;
-    align-items: stretch;
-    margin: 5em;
+    justify-content: space-around;
     font-family: 'Righteous', cursive;
-    font-size: large;
+    font-size: medium;
     text-align: center;
 }
 .skillsPara{
